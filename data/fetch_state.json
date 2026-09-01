@@ -1,0 +1,11 @@
+{
+  "updated_at_utc": "2026-09-01T21:30:02Z",
+  "source": "arxiv_announcement_list",
+  "report_date_local": "2026-09-02",
+  "candidate_count_before_filter": 1556,
+  "candidate_count_after_filter": 972,
+  "last_successful_cutoff": null,
+  "last_window_start": null,
+  "last_window_end": null,
+  "last_processed_announcement_date": "2026-09-01"
+}
